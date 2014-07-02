@@ -1,6 +1,10 @@
 {
   "name": "animate.css",
-  "version": "0.1.0",
+  "version": "3.1.1",
+  "author":{
+    "name":"daneden",
+    "email":"dan.eden@me.com"
+  },
   "description": "A cross-browser library of CSS animations. As easy to use as an easy thing.",
   "css": "animate.css",
   "repository": "git@github.com:cortex-packages/animate.css.git",
