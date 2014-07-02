@@ -1,0 +1,17 @@
+{
+  "name": "animate.css",
+  "version": "0.1.0",
+  "description": "A cross-browser library of CSS animations. As easy to use as an easy thing.",
+  "css": "animate.css",
+  "repository": "git@github.com:cortex-packages/animate.css.git",
+  "keywords": [
+    "css",
+    "animate"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortex-packages/animate.css/issues"
+  },
+  "homepage": "https://github.com/cortex-packages/animate.css"
+  
+}
